@@ -1,1 +1,1 @@
-The repository has been changed to https://github.com/aliyun/TSDB-Client
+The repository has been changed to https://github.com/aliyun/aliyun-tsdb-java-sdk
